@@ -49,4 +49,4 @@ Debdoot Manna
 
 ## License
 
-[Optional: Add a license, e.g., MIT License]
+MIT License
